@@ -1,4 +1,5 @@
-## Hi there 👋
+## Welcome to Minutus
+<img src="https://github.com/Minutus-co/Admin-Page-Template/assets/71051680/097d7cc0-0822-43b6-a742-5ac87401b57e" alt="Your Image Description" width="500px" />
 
 <!--
 

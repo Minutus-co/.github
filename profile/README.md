@@ -1,5 +1,5 @@
 ## Welcome to Minutus
-<img src="https://github.com/Minutus-co/Admin-Page-Template/assets/71051680/097d7cc0-0822-43b6-a742-5ac87401b57e" alt="Your Image Description" width="500px" />
+<img src="https://github.com/Minutus-co/.github/assets/71051680/be0daed5-806b-4452-9a4b-08d217c15790" alt="Your Image Description" width="500px" />
 
 <!--
 
